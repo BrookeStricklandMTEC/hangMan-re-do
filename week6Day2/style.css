@@ -1,0 +1,21 @@
+
+body { margin: 100px; }
+
+.row { 
+text-align: center;
+padding: 2px 2px 2px 2px; 
+
+}
+
+.card{ 
+display: inline-block;
+width: 100px;
+height: 100px;
+background-color: #333333; 
+cursor: pointer;
+}
+
+
+.backgroundColor{background-color: #a9a9a9;}
+
+.card:hover{ box-shadow: inset 0px 0px 0px 1px #d3d3d3; box-sizing: border-box;}
